@@ -1,5 +1,11 @@
-# nyc-taxi-pyspark-analysis
-# NYC Taxi Trip Analysis using PySpark 🚖
+# BIG DATA ANALYSIS
+* COMPANY*: CODTECH IT SOLUTIONS
+* NAME*: AISHWARYA ZUNJAR MARATHE
+* INTERN ID*: CITS0D676
+* DOMAIN*: DATA ANALYTICS
+* DURATION*: 6 WEEKS
+* MENTOR*: NEELA SANTOSH
+# NYC Taxi Trip Analysis using PySpark 
 
 This project demonstrates how to process and analyze a large real-world dataset using **PySpark**, a big data processing framework. The analysis focuses on the **NYC Yellow Taxi Trip dataset**, showcasing how PySpark enables scalable and efficient computation on large datasets.
 ---
